@@ -1,47 +1,25 @@
 # DBMS SQL Overview
 
 ## DBMS 1
---> About DBMS 
-
-
---> ER Diagram, Entity Set, Relationship, Cardinality Constraint, Attributes, Constraints
-
-
---> Keys
-
-
---> Functional Dependency
-
-
---> Decomposition of a Relation
-
-
---> Types of Decomposition
+  - About DBMS
+  - ER Diagram, Entity Set, Relationship, Cardinality Constraint, Attributes, Constraints
+  - Keys
+  - Functional Dependency
+  - Decomposition of a Relation
+  - Types of Decomposition
 
 
 ## DBMS 2
---> Normalization
-
-
---> Transaction 
-
-
---> Acid properties
-
-
---> Schedules
-
-
---> Relational Algebra
+  - Normalization
+  - Transaction 
+  - Acid properties
+  - Schedules
+  - Relational Algebra
 
 ## DBMS 3
---> SQL 
-
-
---> DDL , DML , DCL 
-
-
---> SQL queries 
+  - SQL 
+  - DDL , DML , DCL 
+  - SQL queries 
 
 
 ## Deadlocks (Important):
