@@ -19,7 +19,7 @@
 --> Types of Decomposition
 
 
-##DBMS 2
+#DBMS 2
 --> Normalization
 
 
@@ -34,7 +34,7 @@
 
 --> Relational Algebra
 
-##DBMS 3
+#DBMS 3
 --> SQL 
 
 
@@ -44,7 +44,7 @@
 --> SQL queries 
 
 
-## Deadlocks (Important):
+# Deadlocks (Important):
 A situation where a set of processes are blocked because each process is holding a
 resource and waiting for another resource acquired by some other process. Deadlock
 can arise if following four conditions hold simultaneously (Necessary Conditions):
