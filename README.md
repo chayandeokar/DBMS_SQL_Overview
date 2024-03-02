@@ -43,8 +43,12 @@
 
 --> SQL queries 
 
+
 --> TCL { Commit , rollbacks }
 
+
+# SQL QUERIES 
+--> SELECT STATEMENT 
 # Deadlocks (Important):
 A situation where a set of processes are blocked because each process is holding a
 resource and waiting for another resource acquired by some other process. Deadlock
